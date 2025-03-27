@@ -12,5 +12,5 @@ Este é um projeto de uma lista de tarefas onde o usuário pode adicionar, exclu
 
 - **HTML**: Estrutura básica da página.
 - **CSS**: Estilização e layout da página.
-- **JavaScript**: Funcionalidade interativa (adicionar, excluir e marcar tarefas como concluídas).
+- **JavaScript**: Funcionalidade.
 
